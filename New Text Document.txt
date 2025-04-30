@@ -1,0 +1,27 @@
+date +%d
+
+date +%y
+
+date +%A
+
+date +%D
+
+date +%a
+
+date +%m
+
+date +%M
+
+date +%T
+
+date +%H
+
+touch new.sh
+
+more new.sh
+
+nanp new.sh
+
+ls
+
+./new.sh
